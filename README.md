@@ -3,6 +3,10 @@
 This is my personal portfolio website created as part of the Synent Technologies Web Development Internship.
 
 ---
+##  Live Demo
+https://riya-personal-portfolio-website.netlify.app
+
+---
 
 ##  Features
 - Responsive single-page portfolio
