@@ -19,3 +19,13 @@ This is my personal portfolio website created as part of the Synent Technologies
 ---
 
 ## Project Structure
+index.html
+style.css
+README.md
+
+## Author
+Riya Jayesh Patel
+
+- 📧 riyapatel8727@gmail.com  
+- 🔗 GitHub: https://github.com/RiyaPatel280  
+- 💼 LinkedIn: https://linkedin.com/in/riya-patel-8a9437283  
